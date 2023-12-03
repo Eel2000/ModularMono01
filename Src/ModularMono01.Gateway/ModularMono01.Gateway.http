@@ -1,0 +1,6 @@
+@ModularMono01.Gateway_HostAddress = http://localhost:5153
+
+GET {{ModularMono01.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
